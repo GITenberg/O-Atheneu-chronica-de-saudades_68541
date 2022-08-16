@@ -1,0 +1,40 @@
+_repo: O-Atheneu-chronica-de-saudades_68541
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pompéia, Raul
+    aliases:
+    - Avila Pompéia, Raul de
+    - De Avila Pompéia, Raul
+    - Pompéia, Raul de Avila
+    - Pompeia, Raul
+    birthdate: 1863
+    deathdate: 1895
+    gutenberg_agent_id: '54820'
+    url: http://www.gutenberg.org/2009/agents/54820
+    wikipedia:
+    - https://pt.wikipedia.org/wiki/Raul_Pompeia
+    - https://en.wikipedia.org/wiki/Raul_Pompeia
+description: Illustrated by the author.
+gutenberg_issued: '2022-07-17'
+identifiers:
+  gutenberg: '68541'
+language: pt
+pgterms:marc904: https://digital.bbm.usp.br/handle/bbm/5000
+pgterms:marc905: 20220712093132pompia
+pgterms:marc906: '1888'
+pgterms:marc907: BR
+production_note: Laura Natal Rodrigues (Images generously made available by the Biblioteca
+  Brasiliana USP Digital.)
+publication_note: Brazil :Livraria Francisco Alves,1888.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brazil -- Fiction'
+- !lcsh 'Boarding schools -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Bildungsromans'
+- GITenberg
+title: O Atheneu (chronica de saudades)
+url: http://www.gutenberg.org/ebooks/68541
