@@ -1,5 +1,8 @@
 _repo: O-Atheneu-chronica-de-saudades_68541
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68541-h/images/atheneu_cover.jpg
 creator:
   author:
     agent_name: Pompéia, Raul
@@ -16,6 +19,8 @@ creator:
     - https://pt.wikipedia.org/wiki/Raul_Pompeia
     - https://en.wikipedia.org/wiki/Raul_Pompeia
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68541#O-Atheneu-chronica-de-saudades
 gutenberg_issued: '2022-07-17'
 identifiers:
   gutenberg: '68541'
